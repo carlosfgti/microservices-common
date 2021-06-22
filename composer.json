@@ -1,0 +1,19 @@
+{
+    "name": "carlosfgti/microservices-common",
+    "description": "Package Files Utils Microservices Courses",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Carlos Ferreira",
+            "email": "carlos@especializati.com.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Carlosfgti\\MicroservicesCommon\\": "src/"
+        }
+    }
+}
